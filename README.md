@@ -1,6 +1,6 @@
 # Hi there, I'm Rishav Srivastav 👋 👨‍💻
 
-### Full Stack Developer | Java Backend Enthusiast | Cloud FinOps Aspirant
+### Full Stack Developer | Java Backend Developer | Cloud FinOps Aspirant
 
 I am an **Associate Software Developer at TCS** currently specializing in **Java & Spring Boot** backend systems. My journey is fueled by a mix of solving complex data structure problems and building scalable cloud infrastructure. 
 
