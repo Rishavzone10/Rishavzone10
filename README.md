@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Java Backend Developer | Cloud FinOps Aspirant
 
-I am an **Associate Software Developer at TCS** currently specializing in **Java & Spring Boot** backend systems. My journey is fueled by a mix of solving complex data structure problems and building scalable cloud infrastructure. 
+I am an **Associate Software Developer at TCS** currently specializing in **Java & Spring Boot** backend systems. My journey is fueled by a mix of solving complex data structure problems, Full Stack Solutions and building scalable cloud infrastructure. 
 
 Beyond the terminal, I’m a storyteller through my lens and strings.
 
